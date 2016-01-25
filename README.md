@@ -19,7 +19,7 @@ This is a tool to help make community engagement easier. It is also a projec aid
    Postgres, [Django Girls'](http://djangogirls.org) ebook,
    [Tutorials Extension](http://djangogirls.org/resources/), is a reference.
    The info is also on [Django Girls GitHub repository](https://github.com/DjangoGirls/tutorial-extensions/blob/master/optional_postgresql_installation/README.md).
-1. Clone the repo - `git clone git@github.com:systers/portal.git` and cd into
+1. Clone the repo - `https://github.com/Python-Mombasa/portal.git` and cd into
   the `portal` directory.
 1. Create a virtual environment with Python and install dependencies:
  ```bash
