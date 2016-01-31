@@ -36,7 +36,7 @@ class Account(AbstractBaseUser):
 
     first_name = models.CharField(max_length=50, blank=True)
     last_name = models.CharField(max_length=50, blank=True)
-    twitter = models.CharField(max_length=10, blank=True)
+    bio = models.TextField(blank=True)
     phonenumber = models.CharField(max_length=30, blank=True)
     is_admin = models.BooleanField(default=False)
 
